@@ -7,6 +7,14 @@ core concepts and applying them in real projects.
 ```
 java/
 │
+├── practice/
+│   └── oops_basics/
+│       ├── ClassAndObject.java
+│       ├── Constructors.java
+│       ├── AccessModifier.java
+│       ├── GetterAndSetter.java
+│       └── Static.java
+│
 ├── mini_projects/
 │   ├── grade_calculator/
 │   ├── number_guessing_game/
@@ -15,6 +23,12 @@ java/
 └── projects/
     └── ...coming soon
 ```
+## 🔬 Practice
+Small practice files for individual concepts.
+
+| Folder | Concept |
+|--------|---------|
+| oops_basics | Classes, Constructors, Access Modifiers, Getters & Setters, Static keyword |
 
 ## 🔧 Mini Projects
 Small programs focused on individual Java concepts.
