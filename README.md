@@ -8,12 +8,15 @@ core concepts and applying them in real projects.
 java/
 │
 ├── practice/
-│   └── oops_basics/
-│       ├── ClassAndObject.java
-│       ├── Constructors.java
-│       ├── AccessModifier.java
-│       ├── GetterAndSetter.java
-│       └── Static.java
+│   ├── oops_basics/
+│   │   ├── ClassAndObject.java
+│   │   ├── Constructors.java
+│   │   ├── AccessModifier.java
+│   │   ├── GetterAndSetter.java
+│   │   └── Static.java
+│   │
+│   └── oops_advance/
+│       └── Inheritance.java
 │
 ├── mini_projects/
 │   ├── grade_calculator/
