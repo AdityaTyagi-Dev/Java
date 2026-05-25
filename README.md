@@ -13,10 +13,16 @@ java/
 │   │   ├── Constructors.java
 │   │   ├── AccessModifier.java
 │   │   ├── GetterAndSetter.java
-│   │   └── Static.java
+│   │   ├── Static.java
+│   │   └── Final.java
 │   │
 │   └── oops_advance/
-│       └── Inheritance.java
+        ├── Inheritance.java
+        ├── Abstract.java
+        ├── Interface.java
+        ├── Enum.java
+        ├── StaticDynamic.java
+│       └── PassbyValueReference.java
 │
 ├── mini_projects/
 │   ├── grade_calculator/
@@ -31,7 +37,8 @@ Small practice files for individual concepts.
 
 | Folder | Concept |
 |--------|---------|
-| oops_basics | Classes, Constructors, Access Modifiers, Getters & Setters, Static keyword |
+| oops_basics | Classes, Constructors, Access Modifiers, Getters & Setters, Static keyword, Final keyword |
+| oops_advance | Inheritance, Abstract, Interface, Enum, Static vs Dynamic binding, Pass by Value / Reference |
 
 ## 🔧 Mini Projects
 Small programs focused on individual Java concepts.

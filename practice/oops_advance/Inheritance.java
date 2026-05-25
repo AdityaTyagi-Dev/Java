@@ -26,6 +26,7 @@ class Dog extends Animal { // subclass
 
     @Override // not mandatory, but it tells compiler that you are overriding intentionally and considered a good practice
     void eat(){  // this will given priority if the object is of subclass
+        super.eat();
         System.out.println("I am a dog");
     }
 }
@@ -46,7 +47,7 @@ public class Inheritance {
 
         // Subclass can use the field of superclass but superclass cannot use the field of subclass
         // In Java, inheritance is an is-a relationship.
-        // -Rectange is a polygon
+        // -Rectangle is a polygon
         // -Orange is a fruit
     }
 }
