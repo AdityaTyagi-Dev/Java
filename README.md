@@ -27,6 +27,7 @@ java/
 ├── mini_projects/
 │   ├── grade_calculator/
 │   ├── number_guessing_game/
+│   ├── bank_account_system/
 │   └── ...more coming soon
 │
 └── projects/
@@ -47,6 +48,7 @@ Small programs focused on individual Java concepts.
 |---------|--------------|
 | Grade Calculator | If-Else, Loops, Arrays, Exception Handling |
 | Number Guessing Game | Loops, Random Class, Switch Statement, Exception Handling |
+| Bank Account System | Abstract Classes, Inheritance, Encapsulation, Method Overriding |
 
 ## 🚀 Projects
 Larger projects combining multiple concepts.
